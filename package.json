@@ -1,0 +1,10 @@
+{
+  "name": "n8n-scripts",
+  "version": "1.0.0",
+  "scripts": {
+    "fill": "node fill_spreadsheet.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
