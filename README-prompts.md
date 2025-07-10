@@ -23,6 +23,24 @@ Automações complexas com IA e integrações avançadas:
 - **Cloud**: Multi-cloud, arquitetura orientada a eventos, pipelines de dados
 - **Setores**: E-learning, imobiliário, saúde
 
+### 🤖 [Prompts Chatvolt.ai](./prompts-chatvolt-n8n.md)
+Prompts específicos para integração com Chatvolt.ai:
+- **Lead Capture**: Automação de captura de leads
+- **WhatsApp Business**: Integração avançada com WhatsApp
+- **Multi-Agent**: Orquestração de múltiplos agentes
+- **CRM Integration**: Sincronização com HubSpot, Pipedrive
+- **Analytics**: Dashboards e relatórios automáticos
+- **Brazilian Market**: Funcionalidades específicas para o Brasil
+
+### 💻 [Código Prático Chatvolt](./chatvolt-n8n-codigo.md)
+Templates de código prontos para usar:
+- **Webhooks**: Configurações de recebimento de dados
+- **Function Nodes**: Códigos JavaScript específicos
+- **HTTP Requests**: Chamadas para APIs do Chatvolt
+- **Workflows Completos**: Templates prontos para implementar
+- **Credenciais**: Configuração de autenticação
+- **Troubleshooting**: Soluções para problemas comuns
+
 ### 📖 [Guia de Implementação](./guia-implementacao-n8n.md)
 Manual completo de como implementar os prompts:
 - **Setup**: Preparação do ambiente e configurações
@@ -77,10 +95,27 @@ Manual completo de como implementar os prompts:
 🔧 Complexidade: Intermediária
 ```
 
+### Lead Capture Chatvolt → CRM
+```
+📄 Arquivo: prompts-chatvolt-n8n.md
+🎯 Seção: Lead Capture Automation via Chatvolt
+⏱️ Tempo: 1-2 horas
+🔧 Complexidade: Básica
+```
+
+### WhatsApp Business Automation
+```
+📄 Arquivo: chatvolt-n8n-codigo.md
+🎯 Seção: WhatsApp Business Integration
+⏱️ Tempo: 3-4 horas
+🔧 Complexidade: Avançada
+```
+
 ## 🛠️ Ferramentas e Integrações Cobertas
 
-### **CRMs**
+### **CRMs & Chatbots**
 - HubSpot, Pipedrive, Salesforce
+- **Chatvolt.ai**: Chatbots com IA, WhatsApp Business
 - Automações de pipeline e follow-up
 
 ### **Marketing**
@@ -129,6 +164,12 @@ Manual completo de como implementar os prompts:
 - Menos trabalho repetitivo
 - Maior satisfação no trabalho
 
+### 🇧🇷 **Específico para Chatvolt.ai**
+- WhatsApp Business nativo brasileiro
+- Compliance com LGPD automatizado  
+- Integração com ecossistema nacional
+- Suporte multicultural português/inglês
+
 ## 🚨 Dicas Importantes
 
 ### ⚠️ **Antes de Implementar**
@@ -168,6 +209,15 @@ Para dúvidas sobre implementação:
 
 ## 🎯 Próximos Passos
 
+### Para Usuários do Chatvolt.ai:
+1. **Acesse os prompts específicos** em `prompts-chatvolt-n8n.md`
+2. **Configure webhooks** no painel do Chatvolt
+3. **Implemente lead capture** básico primeiro
+4. **Expanda para WhatsApp** Business automation
+5. **Adicione analytics** e relatórios
+6. **Otimize baseado** nos dados coletados
+
+### Para Outros Usuários:
 1. **Escolha seu primeiro workflow** baseado na necessidade mais urgente
 2. **Leia o guia de implementação** correspondente
 3. **Configure o ambiente** de desenvolvimento
